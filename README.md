@@ -1,4 +1,4 @@
-  The car dataset contains information about various automobiles, including attributes such as price, engine size, horsepower, fuel efficiency, dimensions, and other technical specifications.
+  The car dataset contains information about various automobiles, including attributes such as price, engine size, horsepower, fuel efficiency, dimensions, and other technical specifications. 
 However, like most real-world datasets, it contains missing values, inconsistent data formats, and variables that require transformation before meaningful analysis or modeling can be performed.
 
 The objective of this project is to perform comprehensive data preprocessing to improve the dataset’s quality, consistency, and usability. This involves identifying and handling missing values, correcting data types, standardizing and normalizing numerical variables, and transforming data into suitable formats for analysis.
